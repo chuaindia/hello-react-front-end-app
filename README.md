@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 hello-rails-back-end <a name="about-project"></a>
+# 📖 hello-rails-front-end-app <a name="about-project"></a>
 
- **hello-rails-back-end**  is a project to use rails as a backend environment.
+ **hello-rails-front-end-app**  is a project to use rails as a backend environment.
 
 
 
@@ -53,14 +53,14 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- Making use of Ruby on Rails
-- Making use of PostgreSQL
+- Making use of Javascript
+- Making use of React
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Link to Rail App <a name="react-app"></a>
+## Link to Rail App <a name="rail-app"></a>
 > 
 <br>
 
@@ -74,7 +74,7 @@ https://github.com/chuaindia/hello-rails-back-end
 
 > To start and run this project
 ```
-bundle install
+npm install
 ```
 
 To get a local copy up and running, follow these steps.
@@ -83,7 +83,7 @@ To get a local copy up and running, follow these steps.
 
 - IDE to edit and run the code (We use Visual Studio Code 🔥).
 - Git to versionning your work.
-- PostgreSQL
+- React
 
 
 ### Install & Setup
@@ -101,13 +101,7 @@ $ git clone https://github.com/chuaindia/hello-react-front-end-app.git
 $ cd Rails-app-for-API
 ```
 
-- Install the required dependecies with `bundle install`
 - Install npm dependencies with `npm install`
-- **Before running below commands update [config/database.yml](./config/database.yml) with your local `DB`credentials. Then run:**
-      - **`rake db:create`**
-      - **`rake db:migrate`**
-      - **`rake db:seed`**
-- With Ruby on Rails and PostgreSQL installed in your environment, you can run `rails server` to run the website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

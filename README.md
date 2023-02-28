@@ -60,9 +60,11 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Link to React App <a name="react-app"></a>
+## Link to Rail App <a name="react-app"></a>
 > 
 <br>
+
+https://github.com/chuaindia/hello-rails-back-end
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
